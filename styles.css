@@ -1,0 +1,108 @@
+.navbar{
+    background-color: white;
+    padding-top: 0%;
+    margin-top: 0em;
+}
+a{
+    color:black;
+}
+.jumbotron{
+    background-color: black;
+}
+.light{
+    color: white;
+    text-align: center;
+}
+.footer{
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    background-color: #070707;
+    text-align: center;
+ }
+ .dark{
+     color: black;
+ }
+ .small-images{
+     margin-top: 20px;
+     margin-bottom: 20px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+ }
+ .large-image{
+     margin-left: 50px;
+     max-width: 70%;
+     height: auto;
+ }
+ .small-image{
+    height:auto;
+    max-width:25%;
+ }
+ .column-flex{
+     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.row-flex{
+    margin: 0px;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+.image-border{
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+}
+.images-group{
+    height:auto;
+    max-width:400px;
+    margin: 0px;
+}
+.text-group{
+    height:auto;
+    max-width:400px;
+    margin: 10px;
+}
+.contri-button{
+    height:auto;
+    max-width:400px;
+    background-color: #484849;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.support-staff-text{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.ppe-text{
+ font-size: 20px;
+ font-weight: bold;
+ color: black;
+ margin-left: 20px;
+}
+.amount-text{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top:-20px;
+    font-weight: bold;
+    color:#707070
+}
+.item-name-text{
+    color:#484949;
+    font-size: 20px;
+    font-weight: bold;
+    align-self: center;
+}
+.desperate-time-text{
+    color:#707070;
+}
+p{
+    font-size: 15px;
+}
