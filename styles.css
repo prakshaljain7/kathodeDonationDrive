@@ -37,7 +37,8 @@ a{
  }
  .small-image{
     height:auto;
-    max-width:25%;
+    max-height: 100px;
+    max-width:100px;
  }
  .column-flex{
      margin: 0px;
